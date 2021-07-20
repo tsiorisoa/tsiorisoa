@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsiorisoa
 - 👀 I’m interested in Data Analysis and GIS
 - 🌱 I’m currently learning Geomatics and its' application in Geology
-- 💞️ I’m looking to collaborate on Programing
+- 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me, githube.com
 
 <!---
